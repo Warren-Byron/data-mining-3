@@ -1,0 +1,346 @@
+order,id,date,time,title,url,visitCount,typedCount,transition
+288,274813,5/4/2021,15:36:22,How do I select a subset of a DataFrame? — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/03_subset_data.html,1,0,link
+293,273719,5/4/2021,15:36:00,Python | Pandas DataFrame.where() - GeeksforGeeks,https://www.geeksforgeeks.org/python-pandas-dataframe-where/,2,0,link
+295,264113,5/4/2021,15:35:31,pandas.DataFrame.where — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.where.html,5,0,link
+298,274809,5/4/2021,15:33:51,A Gentle Introduction on Market Basket Analysis — Association Rules | by Susan Li | Towards Data Science,https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce,1,0,link
+300,274808,5/4/2021,15:33:23,Analysis - Association Rule LEARNING,http://www.zaxrosenberg.com/wp-content/uploads/2018/02/Association-Rule-Learning.pdf,1,0,link
+304,274805,5/4/2021,15:31:02,A library of extension and helper modules for Python's data analysis and machine learning libraries. | PythonRepo,https://pythonrepo.com/repo/rasbt-mlxtend-python-deep-learning,1,0,link
+308,274803,5/4/2021,15:30:14,rasbt/mlxtend: A library of extension and helper modules for Python's data analysis and machine learning libraries.,https://github.com/rasbt/mlxtend,1,0,link
+312,274801,5/4/2021,15:30:00,Home - mlxtend,http://rasbt.github.io/mlxtend/,1,0,link
+315,274799,5/4/2021,15:18:53,Commonly Used Interest Measures for Association Rules,https://michael.hahsler.net/research/recommender/associationrules.html,1,0,link
+318,273854,5/4/2021,15:15:55,Association rules - mlxtend,http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/,2,0,link
+320,274797,5/4/2021,15:14:28,Commonly Used Interest Measures for Association Rules,https://michael.hahsler.net/research/recommender/associationrules.html#:~:text=Leverage%20measures%20the%20difference%20ofREPLACE-THIS-PLEASEexpected%20from%20the%20independent%20sells.,1,0,link
+323,274788,5/4/2021,14:56:40,Complete guide to Association Rules (1/2) | by Anisha Garg | Towards Data Science,https://towardsdatascience.com/association-rules-2-aa9a77241654,2,0,link
+325,274795,5/4/2021,14:50:38,A beginner's tutorial on the apriori algorithm in data mining with R implementation | HackerEarth Blog,https://www.hackerearth.com/blog/developers/beginners-tutorial-apriori-algorithm-data-mining-r-implementation/,1,0,link
+329,274793,5/4/2021,14:49:40,symbols - What is the correct way of writing the support of a function in math mode? - TeX - LaTeX Stack Exchange,https://tex.stackexchange.com/questions/463304/what-is-the-correct-way-of-writing-the-support-of-a-function-in-math-mode,1,0,link
+340,274788,5/4/2021,13:26:43,Complete guide to Association Rules (1/2) | by Anisha Garg | Towards Data Science,https://towardsdatascience.com/association-rules-2-aa9a77241654,2,0,link
+343,274780,5/4/2021,13:06:05,floating point - What is the best way to compare floats for almost-equality in Python? - Stack Overflow,https://stackoverflow.com/questions/5595425/what-is-the-best-way-to-compare-floats-for-almost-equality-in-python,2,0,link
+346,274785,5/4/2021,13:03:24,pandas - How to convert datatype:object to float64 in python? - Stack Overflow,https://stackoverflow.com/questions/28277137/how-to-convert-datatypeobject-to-float64-in-python,1,0,link
+349,274783,5/4/2021,13:02:38,How to determine a Python variable's type? - Stack Overflow,https://stackoverflow.com/questions/402504/how-to-determine-a-python-variables-type,1,0,link
+352,274022,5/4/2021,13:00:59,pandas.DataFrame.dtypes — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dtypes.html,2,0,link
+355,274780,5/4/2021,12:59:45,floating point - What is the best way to compare floats for almost-equality in Python? - Stack Overflow,https://stackoverflow.com/questions/5595425/what-is-the-best-way-to-compare-floats-for-almost-equality-in-python,2,0,link
+358,274778,5/4/2021,12:56:18,numpy.equal — NumPy v1.20 Manual,https://numpy.org/doc/stable/reference/generated/numpy.equal.html#numpy.equal,1,0,link
+359,274776,5/4/2021,12:52:50,numpy.allclose — NumPy v1.20 Manual,https://numpy.org/doc/stable/reference/generated/numpy.allclose.html,2,0,link
+361,274777,5/4/2021,12:49:40,python - Check if float is close to any float stored in array - Stack Overflow,https://stackoverflow.com/questions/25962838/check-if-float-is-close-to-any-float-stored-in-array,1,0,link
+363,274776,5/4/2021,12:49:05,numpy.allclose — NumPy v1.20 Manual,https://numpy.org/doc/stable/reference/generated/numpy.allclose.html,2,0,link
+365,274772,5/4/2021,12:47:53,numpy.isclose — NumPy v1.20 Manual,https://numpy.org/doc/stable/reference/generated/numpy.isclose.html,2,0,link
+368,274774,5/4/2021,12:45:13,NumPy: the absolute basics for beginners — NumPy v1.20 Manual,https://numpy.org/doc/stable/user/absolute_beginners.html,1,0,link
+371,274772,5/4/2021,12:43:40,numpy.isclose — NumPy v1.20 Manual,https://numpy.org/doc/stable/reference/generated/numpy.isclose.html,2,0,link
+377,274769,5/4/2021,12:43:02,math.isclose python 2.7 Code Example,https://www.codegrepper.com/code-examples/python/math.isclose+python+2.7,2,0,link
+379,274769,5/4/2021,12:42:28,math.isclose python 2.7 Code Example,https://www.codegrepper.com/code-examples/python/math.isclose+python+2.7,2,0,link
+381,274767,5/4/2021,12:42:10,math module has no attribute 'isclose' · Issue #1218 · plotly/plotly.py,https://github.com/plotly/plotly.py/issues/1218,1,0,link
+384,274765,5/4/2021,12:38:39,python - Comparing floats in a pandas column - Stack Overflow,https://stackoverflow.com/questions/33626443/comparing-floats-in-a-pandas-column,1,0,link
+387,269747,5/4/2021,12:35:34,python - How to select rows from a DataFrame based on column values - Stack Overflow,https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values,5,0,link
+390,274244,5/4/2021,12:24:56,pandas.DataFrame.sort_values — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html,2,0,link
+394,274761,5/4/2021,12:23:50,What Non-descending Order Mean? - Java | Dream.In.Code,https://www.dreamincode.net/forums/topic/214318-what-non-descending-order-mean/,1,0,link
+396,274760,5/4/2021,12:23:20,"Why do we use the term ""non-descending"" instead of ""ascending"" in sorting algorithms? - Stack Overflow",https://stackoverflow.com/questions/42444024/why-do-we-use-the-term-non-descending-instead-of-ascending-in-sorting-algori,1,0,link
+398,274759,5/4/2021,12:22:51,"soft question - Why do some authors use terms ""non-ascending"" and ""non-descending"" instead of ascending and descending? - Mathematics Stack Exchange",https://math.stackexchange.com/questions/1123292/why-do-some-authors-use-terms-non-ascending-and-non-descending-instead-of-as,1,0,link
+401,274757,5/4/2021,12:20:22,What is the difference between 'ascending order' and 'non-decreasing' order? - Quora,https://www.quora.com/What-is-the-difference-between-ascending-order-and-non-decreasing-order#:~:text=Nondecreasing%20order%20simply%20refers%20toREPLACE-THIS-PLEASEgreater%20than%20the%20previous%20one.,1,0,link
+436,274743,5/4/2021,10:55:02,numpy.ndarray.item — NumPy v1.20 Manual,https://numpy.org/doc/stable/reference/generated/numpy.ndarray.item.html,1,0,link
+441,274741,5/4/2021,10:54:49,numpy.extract — NumPy v1.20 Manual,https://numpy.org/doc/stable/reference/generated/numpy.extract.html,1,0,link
+444,274739,5/4/2021,10:53:56,pandas.Series.explode — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.Series.explode.html,1,0,link
+445,274737,5/4/2021,10:53:30,pandas.Series.str.slice — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.Series.str.slice.html,2,0,link
+446,274738,5/4/2021,10:53:09,pandas.Series.str.get — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.Series.str.get.html#pandas.Series.str.get,1,0,link
+447,274737,5/4/2021,10:52:49,pandas.Series.str.slice — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.Series.str.slice.html,2,0,link
+449,274736,5/4/2021,10:51:54,pandas.Series.str.extract — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.Series.str.extract.html,1,0,link
+452,274734,5/4/2021,10:51:19,Python | Pandas Series - GeeksforGeeks,https://www.geeksforgeeks.org/python-pandas-series/#:~:text=Pandas%20Series%20is%20a%20oneREPLACE-THIS-PLEASEcolumn%20in%20an%20excel%20sheet.,1,0,link
+458,274731,5/4/2021,10:37:48,Sentiment Analysis: First Steps With Python's NLTK Library – Real Python,https://realpython.com/python-nltk-sentiment-analysis/,1,0,link
+707,274617,5/4/2021,7:44:43,Get Started  |  TensorFlow.js,https://www.tensorflow.org/js/tutorials,2,0,link
+1134,274360,5/3/2021,16:37:09,Mean absolute error - Wikipedia,https://en.wikipedia.org/wiki/Mean_absolute_error#:~:text=In%20statistics%2C%20mean%20absolute%20errorREPLACE-THIS-PLEASEobservations%20expressing%20the%20same%20phenomenon.&text=The%20mean%20absolute%20error%20isREPLACE-THIS-PLEASEdefinition%20of%20mean%20absolute%20deviation.,2,0,link
+1138,274360,5/3/2021,16:36:10,Mean absolute error - Wikipedia,https://en.wikipedia.org/wiki/Mean_absolute_error#:~:text=In%20statistics%2C%20mean%20absolute%20errorREPLACE-THIS-PLEASEobservations%20expressing%20the%20same%20phenomenon.&text=The%20mean%20absolute%20error%20isREPLACE-THIS-PLEASEdefinition%20of%20mean%20absolute%20deviation.,2,0,link
+1141,254981,5/3/2021,16:35:20,Basic Syntax | Markdown Guide,https://www.markdownguide.org/basic-syntax/,4,0,link
+1144,274357,5/3/2021,16:32:31,spacing - Increase vertical space in table - TeX - LaTeX Stack Exchange,https://tex.stackexchange.com/questions/170372/increase-vertical-space-in-table,1,0,link
+1148,274331,5/3/2021,16:32:10,rmse - LaTeX4technics,https://www.latex4technics.com/?note=CMEL1Z,3,0,link
+1149,274355,5/3/2021,16:32:02,Online LaTeX Equation Editor - LaTeX4technics,https://www.latex4technics.com/,1,1,typed
+1150,274331,5/3/2021,16:31:48,rmse - LaTeX4technics,https://www.latex4technics.com/?note=CMEL1Z,3,0,link
+1152,274354,5/3/2021,16:30:34,Online LaTeX Equation Editor - createREPLACE-THIS-PLEASE integrate and download,https://www.codecogs.com/eqnedit.php?latex=MAE(yREPLACE-THIS-PLEASE%5Chat%7By%7D)&space;=&space;%5Cfrac%7B1%7D%7Bm%7D%5Csum_%7Bi=1%7D%5E%7Bn%7D%7Cy_i&space;-&space;%5Chat%7By_i%7D%7C,1,0,link
+1155,274352,5/3/2021,16:30:08,Mean absolute error - Wikipedia,https://en.wikipedia.org/wiki/Mean_absolute_error,1,0,link
+1175,274335,5/3/2021,16:20:32,Performance measures: RMSE and MAE - The Data Scientist,https://thedatascientist.com/performance-measures-rmse-mae/,2,0,link
+1178,274335,5/3/2021,15:42:12,Performance measures: RMSE and MAE - The Data Scientist,https://thedatascientist.com/performance-measures-rmse-mae/,2,0,link
+1182,274333,5/3/2021,15:34:45,Learn How to Write Markdown & LaTeX in The Jupyter Notebook | by Khelifi Ahmed Aziz | Towards Data Science,https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd,1,0,link
+1185,274331,5/3/2021,15:33:29,rmse - LaTeX4technics,https://www.latex4technics.com/?note=CMEL1Z,3,0,link
+1187,274330,5/3/2021,15:33:01,Python | Mean Squared Error - GeeksforGeeks,https://www.geeksforgeeks.org/python-mean-squared-error/,1,0,link
+1191,274328,5/3/2021,15:32:41,LaTeX - Mathematical Python,https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/,1,0,link
+1194,274326,5/3/2021,15:31:06,scikit learn - Is there a library function for Root mean square error (RMSE) in python? - Stack Overflow,https://stackoverflow.com/questions/17197492/is-there-a-library-function-for-root-mean-square-error-rmse-in-python,1,0,link
+1196,274325,5/3/2021,15:30:43,<no title> — Jupyter Notebook 6.2.0 documentation,https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html,1,0,link
+1200,274323,5/3/2021,15:30:17,calculate RMSE function python Code Example,https://www.codegrepper.com/code-examples/python/calculate+RMSE+function+python,1,0,link
+1208,274317,5/3/2021,15:26:32,RMSE: Root Mean Square Error - Statistics How To,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/rmse-root-mean-square-error/,1,0,link
+1210,274316,5/3/2021,15:25:07,What does RMSE really mean?. Root Mean Square Error (RMSE) is a… | by James Moody | Towards Data Science,https://towardsdatascience.com/what-does-rmse-really-mean-806b65f2e48e,1,0,link
+1212,274315,5/3/2021,15:24:36,least squares - Mean absolute error OR root mean squared error? - Cross Validated,https://stats.stackexchange.com/questions/48267/mean-absolute-error-or-root-mean-squared-error,1,0,link
+1213,274314,5/3/2021,15:23:39,machine learning - Interpreting the Root Mean Squared Error (RMSE)! - Data Science Stack Exchange,https://datascience.stackexchange.com/questions/36945/interpreting-the-root-mean-squared-error-rmse,1,0,link
+1215,274313,5/3/2021,15:22:37,Assessing the Fit of Regression Models - The Analysis Factor,https://www.theanalysisfactor.com/assessing-the-fit-of-regression-models/#:~:text=As%20the%20square%20root%20ofREPLACE-THIS-PLEASEof%20RMSE%20indicate%20better%20fit.,1,0,link
+1220,274311,5/3/2021,15:20:40,RMSE: Root Mean Square Error - Statistics How To,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/rmse-root-mean-square-error/#:~:text=Root%20Mean%20Square%20Error%20(RMSE)%20is%20the%20standard%20deviation%20ofREPLACE-THIS-PLEASEthe%20line%20of%20best%20fit.,1,0,link
+1225,274163,5/3/2021,15:14:19,seaborn.catplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.catplot.html,2,0,link
+1285,274289,5/3/2021,15:04:16,Surprise · A Python scikit for recommender systems.,http://surpriselib.com/,1,0,link
+1290,274066,5/3/2021,14:21:54,pandas.melt — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.melt.html,3,0,link
+1293,274286,5/3/2021,14:03:35,python - Pandas: Adding new column to dataframe which is a copy of the index column - Stack Overflow,https://stackoverflow.com/questions/36932759/pandas-adding-new-column-to-dataframe-which-is-a-copy-of-the-index-column,1,0,link
+1302,274281,5/3/2021,14:01:04,seaborn.lineplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.lineplot.html,1,0,link
+1304,257994,5/3/2021,14:00:39,Example gallery — seaborn 0.11.1 documentation,https://seaborn.pydata.org/examples/index.html,2,0,link
+1307,274279,5/3/2021,13:53:40,seaborn.histplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.histplot.html,1,0,link
+1310,265224,5/3/2021,13:37:02,How to rename columns in Pandas DataFrame - GeeksforGeeks,https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/,2,0,link
+1312,263973,5/3/2021,13:36:31,python - Renaming columns in Pandas - Stack Overflow,https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas,4,0,link
+1315,266887,5/3/2021,13:33:42,seaborn.scatterplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.scatterplot.html,3,0,link
+1326,274274,5/3/2021,12:33:05,1.3.3.14.6. Histogram Interpretation: Skewed (Non-Normal) Right,https://www.itl.nist.gov/div898/handbook/eda/section3/histogr6.htm#:~:text=A%20%22skewed%20left%22%20distribution%20isREPLACE-THIS-PLEASEdistribution%20that%20is%20skewed%20right.&text=For%20example%2C%20for%20a%20bellREPLACE-THIS-PLEASEthe%20peak%20of%20the%20distribution.,1,0,link
+1338,274268,5/3/2021,9:37:57,Adding a title to a FacetGrid object | Python,https://campus.datacamp.com/courses/introduction-to-data-visualization-with-seaborn/customizing-seaborn-plots-4?ex=7,1,0,link
+1341,274266,5/3/2021,9:36:32,seaborn.FacetGrid — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.FacetGrid.html,1,0,link
+1343,274265,5/3/2021,9:35:41,Seaborn anonying facet title · Douglas C. Wu,https://wckdouglas.github.io/2016/12/seaborn_annoying_title,1,0,link
+1347,274264,5/3/2021,9:32:24,python - How to add a title to Seaborn Facet Plot - Stack Overflow,https://stackoverflow.com/questions/29813694/how-to-add-a-title-to-seaborn-facet-plot,1,0,link
+1365,273567,5/3/2021,8:17:43,Data Mining-91634-[2020-2021]: Assignment 3 - Association Analysis and Recommender Systems,https://moodle.wit.ie/mod/assign/view.php?id=3493816,3,0,link
+1366,254645,5/3/2021,8:17:37,Module: Data Mining-91634-[2020-2021],https://moodle.wit.ie/course/view.php?id=171403,46,0,link
+1379,263973,5/3/2021,8:03:30,python - Renaming columns in Pandas - Stack Overflow,https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas,4,0,link
+1419,274244,5/2/2021,20:03:36,pandas.DataFrame.sort_values — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html,2,0,link
+1422,274010,5/2/2021,19:58:57,Pandas : How to merge Dataframes by index using Dataframe.merge() – Part 3 – thispointer.com,https://thispointer.com/pandas-how-to-merge-dataframes-by-index-using-dataframe-merge-part-3/#:~:text=Merging%20Dataframes%20by%20index%20ofREPLACE-THIS-PLEASEright_index%20arguments%20as%20True%20i.e.&text=Both%20the%20dataframes%20are%20merged%20on%20index%20using%20default%20Inner%20Join.,2,0,link
+1425,274240,5/2/2021,19:55:57,Python | Pandas DataFrame.reset_index() - GeeksforGeeks,https://www.geeksforgeeks.org/python-pandas-dataframe-reset_index/,1,0,link
+1428,273863,5/2/2021,19:55:23,pandas.DataFrame.reset_index — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reset_index.html,2,0,link
+1431,274238,5/2/2021,19:54:09,python - Merge two dataframes by index - Stack Overflow,https://stackoverflow.com/questions/40468069/merge-two-dataframes-by-index/40468090,1,0,link
+1436,266482,5/2/2021,19:46:24,Combining DataFrames with Pandas – Data Analysis and Visualization in Python for Ecologists,https://datacarpentry.org/python-ecology-lesson/05-merging-data/,2,0,link
+1439,274050,5/2/2021,19:34:56,python - Pandas sum by groupbyREPLACE-THIS-PLEASE but exclude certain columns - Stack Overflow,https://stackoverflow.com/questions/32751229/pandas-sum-by-groupby-but-exclude-certain-columns,2,0,link
+1442,274233,5/2/2021,19:27:11,python - Filter dataframe rows if value in column is in a set list of values - Stack Overflow,https://stackoverflow.com/questions/12065885/filter-dataframe-rows-if-value-in-column-is-in-a-set-list-of-values,1,0,link
+1448,265065,5/2/2021,18:19:58,How do I display local image in markdown? - Stack Overflow,https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown,3,0,link
+1456,274226,5/2/2021,18:14:41,Python Convert list to set - Java2Blog,https://java2blog.com/python-list-to-set/,1,0,link
+1459,274224,5/2/2021,18:12:58,How to find the intersection of multiple sets in Python,https://www.kite.com/python/answers/how-to-find-the-intersection-of-multiple-sets-in-python,1,0,link
+1462,274222,5/2/2021,18:00:24,Non-negative matrix factorization - Wikipedia,https://en.wikipedia.org/wiki/Non-negative_matrix_factorization,1,0,link
+1469,274220,5/2/2021,14:58:06,Bandits for Recommender System Optimization | by Janel Roland Chumley | Towards Data Science,https://towardsdatascience.com/bandits-for-recommender-system-optimization-1d702662346e,1,0,link
+1493,274211,5/2/2021,13:59:06,Post-GDPR Developments on Data Protection and Privacy Regulations Around the World - Security Boulevard,https://securityboulevard.com/2019/11/post-gdpr-developments-on-data-protection-and-privacy-regulations-around-the-world/,1,0,link
+1552,274165,5/2/2021,11:48:17,(3062) Seaborn catplot | Using catplot kind to create multiple categorical plots with Python Seaborn - YouTube,https://www.youtube.com/watch?v=nBL6zEE6r-Q,3,0,link
+1553,274165,5/2/2021,11:48:17,(3062) Seaborn catplot | Using catplot kind to create multiple categorical plots with Python Seaborn - YouTube,https://www.youtube.com/watch?v=nBL6zEE6r-Q,3,0,link
+1554,274177,5/2/2021,11:18:04,Python | Pandas.melt() - GeeksforGeeks,https://www.geeksforgeeks.org/python-pandas-melt/,1,0,link
+1556,274066,5/2/2021,11:17:57,pandas.melt — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.melt.html,3,0,link
+1558,274176,5/2/2021,11:16:47,Pandas melt() and unmelt using pivot() function - JournalDev,https://www.journaldev.com/33398/pandas-melt-unmelt-pivot-function#:~:text=Pandas%20melt()%20function%20isREPLACE-THIS-PLEASEtwo%20columns%20%E2%80%93%20variable%20and%20value.,1,0,link
+1564,274173,5/2/2021,11:15:05,python - How can I convert one column of a pandas dataframe into the column headersREPLACE-THIS-PLEASE and melt the rest into long format? - Stack Overflow,https://stackoverflow.com/questions/62785783/how-can-i-convert-one-column-of-a-pandas-dataframe-into-the-column-headers-and,1,0,link
+1567,274171,5/2/2021,11:08:59,"python 3.x - Is it possible to do a ""zoom inset"" using seaborn? - Stack Overflow",https://stackoverflow.com/questions/52160719/is-it-possible-to-do-a-zoom-inset-using-seaborn,1,0,link
+1570,265141,5/2/2021,10:58:54,What Are Lambda Functions | Lambda Function In Python,https://www.analyticsvidhya.com/blog/2020/03/what-are-lambda-functions-in-python/,2,0,link
+1572,265154,5/2/2021,10:58:12,pandas.DataFrame.apply — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html,3,0,link
+1574,265140,5/2/2021,10:58:02,Apply and Lambda usage in pandas. Learn these to master Pandas | by Rahul Agarwal | Towards Data Science,https://towardsdatascience.com/apply-and-lambda-usage-in-pandas-b13a1ea037f7,2,0,link
+1577,274168,5/2/2021,10:50:05,Building structured multi-plot grids — seaborn 0.11.1 documentation,https://seaborn.pydata.org/tutorial/axis_grids.html,1,0,link
+1582,274165,5/2/2021,10:32:45,(3062) Seaborn catplot | Using catplot kind to create multiple categorical plots with Python Seaborn - YouTube,https://www.youtube.com/watch?v=nBL6zEE6r-Q,3,0,link
+1584,274164,5/2/2021,10:31:50,python - Plot seaborn catplots for multiple columns - Stack Overflow,https://stackoverflow.com/questions/60403300/plot-seaborn-catplots-for-multiple-columns,1,0,link
+1586,274163,5/2/2021,10:31:44,seaborn.catplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.catplot.html,2,0,link
+1589,274160,5/2/2021,10:27:37,Plotting with categorical data — seaborn 0.11.1 documentation,https://seaborn.pydata.org/tutorial/categorical.html,2,0,link
+1590,274161,5/2/2021,10:27:31,seaborn.boxenplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.boxenplot.html#seaborn.boxenplot,1,0,link
+1591,274160,5/2/2021,10:27:11,Plotting with categorical data — seaborn 0.11.1 documentation,https://seaborn.pydata.org/tutorial/categorical.html,2,0,link
+1594,274158,5/2/2021,10:26:02,Data Visualization in Python: Matplotlib vs Seaborn - KDnuggets,https://www.kdnuggets.com/2019/04/data-visualization-python-matplotlib-seaborn.html,1,0,link
+1596,274157,5/2/2021,10:23:48,14 Data Visualization Plots of Seaborn | by Aayush Ostwal | Towards Data Science,https://towardsdatascience.com/14-data-visualization-plots-of-seaborn-14a7bdd16cd7,1,0,link
+1598,274156,5/2/2021,10:21:06,How to use Seaborn Data Visualization for Machine Learning,https://machinelearningmastery.com/seaborn-data-visualization-for-machine-learning/,1,0,link
+1601,274127,5/2/2021,10:18:39,seaborn.barplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.barplot.html,2,0,link
+1607,274152,5/2/2021,10:14:14,python - How can I add grid lines to a catplot in seaborn? - Stack Overflow,https://stackoverflow.com/questions/61503183/how-can-i-add-grid-lines-to-a-catplot-in-seaborn,1,0,link
+1610,266887,5/2/2021,10:13:18,seaborn.scatterplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.scatterplot.html,3,0,link
+1615,274148,5/2/2021,10:08:14,9 Examples to Master Seaborn Grids | by Soner Yıldırım | Towards Data Science,https://towardsdatascience.com/9-examples-to-master-seaborn-grids-1935bb38014c,1,0,link
+1617,274147,5/2/2021,10:07:40,What is Quadrant Analysis & How to do it in Python | by Abhijith Chandradas | Towards Data Science,https://towardsdatascience.com/how-to-perform-a-quadrant-analysis-in-python-9f84d36f8a24,1,0,link
+1622,274144,5/2/2021,9:45:02,Building structured multi-plot grids — seaborn 0.11.1 documentation,https://seaborn.pydata.org/tutorial/axis_grids.html#:~:text=Matplotlib%20offers%20good%20support%20forREPLACE-THIS-PLEASEthe%20structure%20of%20your%20dataset.&text=They%20take%20care%20of%20someREPLACE-THIS-PLEASEmultiple%20plots%20in%20each%20grid.,1,0,link
+1625,274142,5/2/2021,9:42:39,python - Plotting multiple boxplots in seaborn? - Stack Overflow,https://stackoverflow.com/questions/44552489/plotting-multiple-boxplots-in-seaborn,1,0,link
+1627,274141,5/2/2021,9:42:15,Grouped boxplots — seaborn 0.11.1 documentation,https://seaborn.pydata.org/examples/grouped_boxplot.html,1,0,link
+1630,274139,5/2/2021,9:40:46,Pandas & Seaborn - A guide to handle & visualize data in Python | Tryolabs Blog,https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/,1,0,link
+1633,274137,5/2/2021,9:39:20,python - Pandas dataframe groupby plot - Stack Overflow,https://stackoverflow.com/questions/41494942/pandas-dataframe-groupby-plot,1,0,link
+1636,274135,5/2/2021,9:28:15,Seaborn Bar Plot - Tutorial and Examples,https://stackabuse.com/seaborn-bar-plot-tutorial-and-examples/,1,0,link
+1638,274133,5/2/2021,9:28:07,Advanced Graphing in Python: Advanced Graphing with Seaborn Cheatsheet | Codecademy,https://www.codecademy.com/learn/advanced-graphing-in-python/modules/seaborn-dvp/cheatsheet,3,0,link
+1639,274134,5/2/2021,9:28:03,Advanced Graphing in Python: Seaborn Cumulative Project Cheatsheet | Codecademy,https://www.codecademy.com/learn/advanced-graphing-in-python/modules/seaborn-cumulative-project/cheatsheet,2,0,link
+1640,274133,5/2/2021,9:27:36,Advanced Graphing in Python: Advanced Graphing with Seaborn Cheatsheet | Codecademy,https://www.codecademy.com/learn/advanced-graphing-in-python/modules/seaborn-dvp/cheatsheet,3,0,link
+1641,274134,5/2/2021,9:27:31,Advanced Graphing in Python: Seaborn Cumulative Project Cheatsheet | Codecademy,https://www.codecademy.com/learn/advanced-graphing-in-python/modules/seaborn-cumulative-project/cheatsheet,2,0,link
+1642,274133,5/2/2021,9:26:52,Advanced Graphing in Python: Advanced Graphing with Seaborn Cheatsheet | Codecademy,https://www.codecademy.com/learn/advanced-graphing-in-python/modules/seaborn-dvp/cheatsheet,3,0,link
+1644,274129,5/2/2021,9:25:09,VISUALIZATION WITH SEABORN - BARPLOT - YouTube,https://www.youtube.com/watch?v=eMkEL7gdVV0,1,0,link
+1647,274127,5/2/2021,9:21:42,seaborn.barplot — seaborn 0.11.1 documentation,https://seaborn.pydata.org/generated/seaborn.barplot.html,2,0,link
+1649,274126,5/2/2021,9:17:05,Grouped barplots — seaborn 0.11.1 documentation,https://seaborn.pydata.org/examples/grouped_barplot.html,1,0,link
+1652,274124,5/2/2021,9:15:54,The Ultimate Python Seaborn Tutorial: Gotta Catch 'Em All,https://elitedatascience.com/python-seaborn-tutorial,3,0,link
+1654,274124,5/2/2021,9:14:59,The Ultimate Python Seaborn Tutorial: Gotta Catch 'Em All,https://elitedatascience.com/python-seaborn-tutorial,3,0,link
+1656,274124,5/2/2021,9:11:49,The Ultimate Python Seaborn Tutorial: Gotta Catch 'Em All,https://elitedatascience.com/python-seaborn-tutorial,3,0,link
+1659,274122,5/2/2021,9:10:50,Data Visualization with Python Matplotlib and GridDB | GridDB: Open Source Time Series Database for IoT,https://griddb.net/en/blog/data-visualization-with-python-matplotlib-and-griddb/,1,0,link
+1661,274121,5/2/2021,9:09:05,lakshayg/google_benchmark_plot: A handy script to visualize google benchmark output,https://github.com/lakshayg/google_benchmark_plot,1,0,link
+1663,274120,5/2/2021,9:07:53,The Next Level of Data Visualization in Python | by Will Koehrsen | Towards Data Science,https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e,1,0,link
+1665,274119,5/2/2021,9:05:13,simple-benchmark · PyPI,https://pypi.org/project/simple-benchmark/,1,0,link
+1667,274118,5/2/2021,9:04:30,Plot benchmark results with Matplotlib ⁕ Vincent Bernat,https://vincent.bernat.ch/en/blog/2011-plot-benchmark-results-matplotlib,1,0,link
+1670,274116,5/2/2021,9:03:30,Welcome to PyOD documentation! — pyod 0.8.9 documentation,https://pyod.readthedocs.io/en/latest/,1,0,link
+1673,274112,5/2/2021,9:01:17,Running algorithm benchmarks — nevergrad documentation,https://facebookresearch.github.io/nevergrad/benchmarking.html,2,0,link
+1674,274113,5/2/2021,9:01:16,Getting started — nevergrad documentation,https://facebookresearch.github.io/nevergrad/getting_started.html,2,0,link
+1675,274114,5/2/2021,9:01:09,Examples - Nevergrad for machine learning — nevergrad documentation,https://facebookresearch.github.io/nevergrad/machinelearning.html,1,0,link
+1676,274113,5/2/2021,9:00:48,Getting started — nevergrad documentation,https://facebookresearch.github.io/nevergrad/getting_started.html,2,0,link
+1677,274112,5/2/2021,9:00:28,Running algorithm benchmarks — nevergrad documentation,https://facebookresearch.github.io/nevergrad/benchmarking.html,2,0,link
+1680,274110,5/2/2021,8:50:28,Building and Testing Recommender Systems With SurpriseREPLACE-THIS-PLEASE Step-By-Step | by Susan Li | Towards Data Science,https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b,1,0,link
+1683,274044,5/2/2021,8:05:06,pandas.DataFrame.groupby — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html,2,0,link
+1686,266491,5/2/2021,8:03:27,python - Counting unique values in a column in pandas dataframe like in Qlik? - Stack Overflow,https://stackoverflow.com/questions/45759966/counting-unique-values-in-a-column-in-pandas-dataframe-like-in-qlik,3,0,link
+1689,274106,5/2/2021,8:00:31,python - Use a list of values to select rows from a pandas dataframe - Stack Overflow,https://stackoverflow.com/questions/12096252/use-a-list-of-values-to-select-rows-from-a-pandas-dataframe,1,0,link
+1730,273995,5/2/2021,6:31:14,MSc - Data Mining,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/02-Practical/00-Outline.html,3,0,reload
+1733,264052,5/1/2021,16:02:07,Python Conditions,https://www.w3schools.com/python/python_conditions.asp,10,0,link
+1738,274088,5/1/2021,16:00:31,python - How can I check for NaN values? - Stack Overflow,https://stackoverflow.com/questions/944700/how-can-i-check-for-nan-values,1,0,link
+1743,274086,5/1/2021,15:37:18,ValueError: Wrong number of items passed 500REPLACE-THIS-PLEASE placement implies 1REPLACE-THIS-PLEASE Python and Pandas - Stack Overflow,https://stackoverflow.com/questions/33677780/valueerror-wrong-number-of-items-passed-500-placement-implies-1-python-and-pa/33681526,1,0,link
+1745,274085,5/1/2021,15:36:12,python - Pandas df.mode ValueError: Wrong number of items passed 5REPLACE-THIS-PLEASE placement implies 1 - Stack Overflow,https://stackoverflow.com/questions/60791876/pandas-df-mode-valueerror-wrong-number-of-items-passed-5-placement-implies-1,1,0,link
+1753,273856,5/1/2021,14:01:40,python - How do I get the row count of a Pandas DataFrame? - Stack Overflow,https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe,2,0,link
+1756,274081,5/1/2021,13:59:20,Check for NaN in Pandas DataFrame (examples included) - Data to Fish,https://datatofish.com/check-nan-pandas-dataframe/,1,0,link
+1767,274075,5/1/2021,13:37:07,Apply function to every row in a Pandas DataFrame - GeeksforGeeks,https://www.geeksforgeeks.org/apply-function-to-every-row-in-a-pandas-dataframe/,1,0,reload
+1768,274075,5/1/2021,13:33:02,Apply function to every row in a Pandas DataFrame - GeeksforGeeks,https://www.geeksforgeeks.org/apply-function-to-every-row-in-a-pandas-dataframe/,1,0,link
+1771,274073,5/1/2021,13:25:01,Setting value for dataframe column from another dataframe based on condition - Javaer101,https://www.javaer101.com/en/article/41317263.html,1,0,link
+1773,274072,5/1/2021,13:24:41,Using Pandas to create a conditional column by selecting multiple columns in two different dataframes | by Imaad Mohamed Khan | Medium,https://imaadmkhan1.medium.com/using-pandas-to-create-a-conditional-column-by-selecting-multiple-columns-in-two-different-b50886fabb7d,1,0,link
+1774,274070,5/1/2021,13:24:15,Get value from another dataframe column based on condition - Javaer101,https://www.javaer101.com/en/article/53916377.html,1,0,link
+1776,274069,5/1/2021,13:23:13,python 3.x - Get value from another dataframe column based on condition - Stack Overflow,https://stackoverflow.com/questions/55512405/get-value-from-another-dataframe-column-based-on-condition,1,0,link
+1779,274067,5/1/2021,13:21:57,Pandas DataFrame: melt() function - w3resource,https://www.w3resource.com/pandas/dataframe/dataframe-melt.php,1,0,link
+1781,274066,5/1/2021,13:20:48,pandas.melt — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.melt.html,3,0,link
+1784,274064,5/1/2021,13:20:30,pandas.DataFrame.lookup — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.lookup.html,1,0,link
+1786,274063,5/1/2021,13:20:05,How to lookup a pair of values from one dataframeREPLACE-THIS-PLEASE in two columns of another dataframeREPLACE-THIS-PLEASE where one column is intervals – Cloud Stack Ninja,https://cloudstack.ninja/mcatis/how-to-lookup-a-pair-of-values-from-one-dataframe-in-two-columns-of-another-dataframe-where-one-column-is-intervals/,1,0,link
+1788,274062,5/1/2021,13:18:41,28. Using Pandas to merge or lookup data – Python for healthcare modelling and data science,https://pythonhealthcare.org/2018/04/05/28-using-pandas-to-merge-or-lookup-data/,1,0,link
+1791,274060,5/1/2021,13:16:34,Pandas DataFrame: lookup() function - w3resource,https://www.w3resource.com/pandas/dataframe/dataframe-lookup.php,1,0,link
+1794,274058,5/1/2021,13:09:04,Can only compare identically-labeled DataFrame objects (I've tried Stack Overflow) : learnpython,https://www.reddit.com/r/learnpython/comments/b0c9re/can_only_compare_identicallylabeled_dataframe/,2,0,link
+1795,274058,5/1/2021,13:09:02,Can only compare identically-labeled DataFrame objects (I've tried Stack Overflow) : learnpython,https://www.reddit.com/r/learnpython/comments/b0c9re/can_only_compare_identicallylabeled_dataframe/,2,0,link
+1797,274057,5/1/2021,13:08:41,ValueError: Can only compare identically-labeled Series objects | Data Science and Machine Learning | Kaggle,https://www.kaggle.com/questions-and-answers/161226,3,0,link
+1798,274057,5/1/2021,13:08:39,ValueError: Can only compare identically-labeled Series objects | Data Science and Machine Learning | Kaggle,https://www.kaggle.com/questions-and-answers/161226,3,0,link
+1799,274057,5/1/2021,13:08:38,ValueError: Can only compare identically-labeled Series objects | Data Science and Machine Learning | Kaggle,https://www.kaggle.com/questions-and-answers/161226,3,0,link
+1804,274054,5/1/2021,13:02:32,sql - Return Value Based on Conditional Lookup on Different Pandas DataFrame - Stack Overflow,https://stackoverflow.com/questions/52022691/return-value-based-on-conditional-lookup-on-different-pandas-dataframe,1,0,link
+1808,274052,5/1/2021,13:02:00,Pandas lookupREPLACE-THIS-PLEASE mapping one column in a dataframe to another in a different dataframe - Javaer101,https://www.javaer101.com/en/article/12161711.html,1,0,link
+1811,274050,5/1/2021,12:59:45,python - Pandas sum by groupbyREPLACE-THIS-PLEASE but exclude certain columns - Stack Overflow,https://stackoverflow.com/questions/32751229/pandas-sum-by-groupby-but-exclude-certain-columns,2,0,link
+1814,274048,5/1/2021,12:55:14,python - Get the row(s) which have the max value in groups using groupby - Stack Overflow,https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby,1,0,link
+1816,274047,5/1/2021,12:54:37,How to get the maximum values of each group in a Pandas DataFrame in Python,https://www.kite.com/python/answers/how-to-get-the-maximum-values-of-each-group-in-a-pandas-dataframe-in-python,1,0,link
+1821,274044,5/1/2021,12:52:30,pandas.DataFrame.groupby — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html,2,0,link
+1826,274041,5/1/2021,12:49:59,MergeREPLACE-THIS-PLEASE joinREPLACE-THIS-PLEASE concatenate and compare — pandas 1.3.0.dev0+1483.gf33480d74f documentation,https://pandas.pydata.org/pandas-docs/dev/user_guide/merging.html,1,0,link
+1828,274039,5/1/2021,12:49:41,python - Are the any alternatives to Pandas Merge that work with medium datasets? - Stack Overflow,https://stackoverflow.com/questions/52533482/are-the-any-alternatives-to-pandas-merge-that-work-with-medium-datasets,1,0,link
+1830,274038,5/1/2021,12:46:58,Pandas Join vs. Merge. What Do They Do And When Should We Use… | by Tony Yiu | Towards Data Science,https://towardsdatascience.com/pandas-join-vs-merge-c365fd4fbf49,1,0,link
+1833,274036,5/1/2021,12:46:07,python - Pandas merging on different size dataframes based on one column - Stack Overflow,https://stackoverflow.com/questions/52660630/pandas-merging-on-different-size-dataframes-based-on-one-column,1,0,link
+1835,274035,5/1/2021,12:45:17,python - Pandas: combine data frames of different sizes - Stack Overflow,https://stackoverflow.com/questions/27556377/pandas-combine-data-frames-of-different-sizes/51781336,1,0,link
+1838,274033,5/1/2021,12:44:36,using python pandas lookup another dataframe and return corresponding values - Stack Overflow,https://stackoverflow.com/questions/17450857/using-python-pandas-lookup-another-dataframe-and-return-corresponding-values,1,0,link
+1841,274031,5/1/2021,12:32:54,"python - Pandas ""Can only compare identically-labeled DataFrame objects"" error - Stack Overflow",https://stackoverflow.com/questions/18548370/pandas-can-only-compare-identically-labeled-dataframe-objects-error,1,0,link
+1844,274029,5/1/2021,12:28:47,How to Select Top N Rows with the Largest Values in a Column(s) in Pandas? - Python and R Tips,https://cmdlinetips.com/2019/03/how-to-select-top-n-rows-with-the-largest-values-in-a-columns-in-pandas/,1,0,link
+1849,274026,5/1/2021,12:26:28,How to select unique Pandas DataFrame rows in Python,https://www.kite.com/python/answers/how-to-select-unique-pandas-dataframe-rows-in-python#:~:text=drop_duplicates(df)%20to%20select%20onlyREPLACE-THIS-PLEASEDataFrame%20.&text=To%20select%20unique%20rows%20overREPLACE-THIS-PLEASEunique%20rows%20over%20these%20columns.,1,0,link
+1852,274024,5/1/2021,12:15:30,Python Program to Add Two Numbers - The Crazy Programmer,https://www.thecrazyprogrammer.com/2017/04/python-program-add-two-numbers.html,1,0,link
+1855,274022,5/1/2021,12:14:06,pandas.DataFrame.dtypes — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dtypes.html,2,0,link
+1858,274020,5/1/2021,12:11:19,pandas.Series.between — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.Series.between.html,1,0,link
+1861,274018,5/1/2021,12:09:14,java - Checking whether a timestamp is 10 minutes old - Code Review Stack Exchange,https://codereview.stackexchange.com/questions/83244/checking-whether-a-timestamp-is-10-minutes-old,1,0,link
+1864,264054,5/1/2021,12:07:31,python - Truth value of a Series is ambiguous. Use a.emptyREPLACE-THIS-PLEASE a.bool()REPLACE-THIS-PLEASE a.item()REPLACE-THIS-PLEASE a.any() or a.all() - Stack Overflow,https://stackoverflow.com/questions/36921951/truth-value-of-a-series-is-ambiguous-use-a-empty-a-bool-a-item-a-any-o,3,0,link
+1867,274016,5/1/2021,12:03:44,Selecting rows in pandas DataFrame based on conditions - GeeksforGeeks,https://www.geeksforgeeks.org/selecting-rows-in-pandas-dataframe-based-on-conditions/,1,0,link
+1870,274014,5/1/2021,12:01:20,Pandas Where - pd.DataFrame.where() - Data Independent,https://www.dataindependent.com/pandas/pandas-where/,1,0,link
+1872,264113,5/1/2021,11:59:52,pandas.DataFrame.where — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.where.html,5,0,link
+1875,274012,5/1/2021,11:56:31,python 3.x - Create a pandas column based on a lookup value from another dataframe - Stack Overflow,https://stackoverflow.com/questions/54047273/create-a-pandas-column-based-on-a-lookup-value-from-another-dataframe,1,0,link
+1878,274010,5/1/2021,11:53:30,Pandas : How to merge Dataframes by index using Dataframe.merge() – Part 3 – thispointer.com,https://thispointer.com/pandas-how-to-merge-dataframes-by-index-using-dataframe-merge-part-3/#:~:text=Merging%20Dataframes%20by%20index%20ofREPLACE-THIS-PLEASEright_index%20arguments%20as%20True%20i.e.&text=Both%20the%20dataframes%20are%20merged%20on%20index%20using%20default%20Inner%20Join.,2,0,link
+1881,273872,5/1/2021,11:25:43,MSc - Data Mining Topic : Anomaly Detection and Recommendation Systems,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/01-Overview/11-01-Overview-Slides-Handout.pdf,2,0,link
+1882,273871,5/1/2021,11:25:39,MSc - Data Mining,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/index.html,3,0,link
+1884,254981,5/1/2021,11:22:12,Basic Syntax | Markdown Guide,https://www.markdownguide.org/basic-syntax/,4,0,link
+1898,273999,5/1/2021,10:54:46,numpy.argpartition — NumPy v1.20 Manual,https://numpy.org/doc/stable/reference/generated/numpy.argpartition.html,1,0,link
+1902,273995,5/1/2021,10:44:50,MSc - Data Mining,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/02-Practical/00-Outline.html,3,0,link
+1903,273996,5/1/2021,10:44:40,selected_pyod.pdf,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/02-Practical/files/data/selected_pyod.pdf,2,0,link
+1904,273995,5/1/2021,10:44:13,MSc - Data Mining,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/02-Practical/00-Outline.html,3,0,link
+1905,273996,5/1/2021,10:43:32,selected_pyod.pdf,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/02-Practical/files/data/selected_pyod.pdf,2,0,link
+1906,273995,5/1/2021,10:41:50,MSc - Data Mining,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/02-Practical/00-Outline.html,3,0,link
+1907,273871,5/1/2021,10:41:47,MSc - Data Mining,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/index.html,3,0,link
+2104,273872,5/1/2021,6:11:34,MSc - Data Mining Topic : Anomaly Detection and Recommendation Systems,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/01-Overview/11-01-Overview-Slides-Handout.pdf,2,0,link
+2105,273871,5/1/2021,6:11:31,MSc - Data Mining,https://datamining-202021.github.io/live/topics/11-Anomaly_Detection_and_Recommendation_Systems/index.html,3,0,link
+2112,273567,4/30/2021,19:05:33,Data Mining-91634-[2020-2021]: Assignment 3 - Association Analysis and Recommender Systems,https://moodle.wit.ie/mod/assign/view.php?id=3493816,3,0,link
+2113,254645,4/30/2021,19:05:19,Module: Data Mining-91634-[2020-2021],https://moodle.wit.ie/course/view.php?id=171403,46,0,link
+2120,273585,4/30/2021,19:03:30,MSc - Data Mining,https://datamining-202021.github.io/live/topics/10-Association_Analysis/index.html,4,0,link
+2122,254782,4/30/2021,19:03:15,MSc - Data Mining,https://datamining-202021.github.io/live/topics/02-Data_Handling/index.html,30,9,typed
+2126,273865,4/30/2021,18:25:28,How To Reset Index in Pandas Dataframe? - Python and R Tips,https://cmdlinetips.com/2018/04/how-to-reset-index-in-pandas-dataframe/,1,0,link
+2129,273863,4/30/2021,18:25:08,pandas.DataFrame.reset_index — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reset_index.html,2,0,link
+2134,265091,4/30/2021,18:10:40,Indexing and selecting data — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html,5,0,link
+2138,265091,4/30/2021,18:10:14,Indexing and selecting data — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html,5,0,link
+2141,273860,4/30/2021,18:00:20,python - Select Pandas rows based on list index - Stack Overflow,https://stackoverflow.com/questions/19155718/select-pandas-rows-based-on-list-index,1,0,link
+2145,269747,4/30/2021,17:58:10,python - How to select rows from a DataFrame based on column values - Stack Overflow,https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values,5,0,link
+2147,265091,4/30/2021,17:57:27,Indexing and selecting data — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html,5,0,link
+2152,273856,4/30/2021,17:51:33,python - How do I get the row count of a Pandas DataFrame? - Stack Overflow,https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe,2,0,link
+2155,273854,4/30/2021,17:48:50,Association rules - mlxtend,http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/,2,0,link
+2162,273851,4/30/2021,16:10:06,XOR gate - Wikipedia,https://en.wikipedia.org/wiki/XOR_gate,1,0,link
+2177,265471,4/30/2021,13:07:38,How to delete a column in pandas,https://www.educative.io/edpresso/how-to-delete-a-column-in-pandas,8,0,link
+2178,265471,4/30/2021,13:07:36,How to delete a column in pandas,https://www.educative.io/edpresso/how-to-delete-a-column-in-pandas,8,0,link
+2183,273842,4/30/2021,12:40:38,pandas.crosstab — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html,1,0,link
+2186,273840,4/30/2021,12:37:33,python - create a basket from a Pandas DataFrame - not standard transaction dataset - Stack Overflow,https://stackoverflow.com/questions/50819737/create-a-basket-from-a-pandas-dataframe-not-standard-transaction-dataset,1,0,link
+2189,273837,4/30/2021,12:27:17,Pandas DataFrame: pivot() function - w3resource,https://www.w3resource.com/pandas/dataframe/dataframe-pivot.php,1,0,link
+2191,273836,4/30/2021,12:27:09,pandas.DataFrame.pivot — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pivot.html,1,0,link
+2194,273834,4/30/2021,12:24:58,Reshaping and pivot tables — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/user_guide/reshaping.html,1,0,link
+2197,273807,4/30/2021,12:20:01,pandas.pivot_table — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html,2,0,link
+2201,264863,4/30/2021,12:11:37,How to get column names in Pandas dataframe - GeeksforGeeks,https://www.geeksforgeeks.org/how-to-get-column-names-in-pandas-dataframe/,5,0,link
+2204,273830,4/30/2021,12:09:56,Python type(),https://www.programiz.com/python-programming/methods/built-in/type,1,0,link
+2206,273829,4/30/2021,12:09:00,type and isinstance in Python - GeeksforGeeks,https://www.geeksforgeeks.org/type-isinstance-python/,1,0,link
+2209,266448,4/30/2021,12:05:08,pandas.DataFrame.set_index — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_index.html,3,0,link
+2212,267813,4/30/2021,12:03:43,python - Change column type in pandas - Stack Overflow,https://stackoverflow.com/questions/15891038/change-column-type-in-pandas#:~:text=The%20best%20way%20to%20convert%20one%20or%20more%20columns%20ofREPLACE-THIS-PLEASEfloating%20point%20numbers%20as%20appropriate.,2,0,link
+2215,273825,4/30/2021,12:02:22,Replace NaN Values with Zeros in Pandas DataFrame - GeeksforGeeks,https://www.geeksforgeeks.org/replace-nan-values-with-zeros-in-pandas-dataframe/,1,0,link
+2218,273823,4/30/2021,11:57:41,How to group a Pandas DataFrame by multiple columns in Python,https://www.kite.com/python/answers/how-to-group-a-pandas-dataframe-by-multiple-columns-in-python,1,0,link
+2229,269747,4/30/2021,11:26:39,python - How to select rows from a DataFrame based on column values - Stack Overflow,https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values,5,0,link
+2232,273812,4/30/2021,11:23:30,python - Pandas count(distinct) equivalent - Stack Overflow,https://stackoverflow.com/questions/15411158/pandas-countdistinct-equivalent,1,0,link
+2236,273809,4/30/2021,11:11:53,python - Selecting multiple columns in a Pandas dataframe - Stack Overflow,https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe,1,0,link
+2239,273807,4/30/2021,11:07:55,pandas.pivot_table — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html,2,0,link
+2242,273804,4/30/2021,11:07:35,How to Create a Pivot Table in Excel - Data to Fish,https://datatofish.com/create-pivot-table-ms-excel/,1,0,link
+2243,273803,4/30/2021,11:04:30,How to Create a Pivot Table in Python using Pandas - Data to Fish,https://datatofish.com/pivot-table-python/,1,0,link
+2246,273801,4/30/2021,11:02:34,TransactionEncoder - mlxtend,http://rasbt.github.io/mlxtend/user_guide/preprocessing/TransactionEncoder/,1,0,link
+2249,273799,4/30/2021,10:59:46,retail and shopping Datasets and Machine Learning Projects | Kaggle,https://www.kaggle.com/tags/shopping,3,0,link
+2250,273799,4/30/2021,10:59:45,retail and shopping Datasets and Machine Learning Projects | Kaggle,https://www.kaggle.com/tags/shopping,3,0,link
+2251,273799,4/30/2021,10:59:44,retail and shopping Datasets and Machine Learning Projects | Kaggle,https://www.kaggle.com/tags/shopping,3,0,link
+2253,273798,4/30/2021,10:58:25,Preprocessing Large Datasets: Online Retail Data with 500k+ Instances | by Dina Jankovic | Towards Data Science,https://towardsdatascience.com/preprocessing-large-datasets-online-retail-data-with-500k-instances-3f24141f511,1,0,link
+2256,273795,4/30/2021,10:57:53,Index of /ml/machine-learning-databases/00352,https://archive.ics.uci.edu/ml/machine-learning-databases/00352/,3,1,typed
+2257,273796,4/30/2021,10:57:51,Index of /ml/machine-learning-databases,https://archive.ics.uci.edu/ml/machine-learning-databases/,1,0,link
+2258,273795,4/30/2021,10:57:48,Index of /ml/machine-learning-databases/00352,https://archive.ics.uci.edu/ml/machine-learning-databases/00352/,3,1,typed
+2259,273795,4/30/2021,10:57:45,Index of /ml/machine-learning-databases/00352,https://archive.ics.uci.edu/ml/machine-learning-databases/00352/,3,1,link
+2260,273794,4/30/2021,10:54:13,Market Basket Analysis. Market basket analysis is a technique… | by Sara kmair | Medium,https://medium.com/@sarahkmair7/market-basket-analysis-8dc699b7e27,1,0,link
+2262,273793,4/30/2021,10:53:44,One-hot encoding transaction data | Python,https://campus.datacamp.com/courses/market-basket-analysis-in-python/introduction-to-market-basket-analysis-1?ex=9,1,0,link
+2265,269747,4/30/2021,10:50:12,python - How to select rows from a DataFrame based on column values - Stack Overflow,https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values,5,0,link
+2268,273790,4/30/2021,10:48:26,Apriori - mlxtend,http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/,1,0,link
+2269,273789,4/30/2021,10:45:32,Introduction to Market Basket Analysis in Python - Practical Business Python,https://pbpython.com/market-basket-analysis.html,1,0,link
+2275,273786,4/30/2021,10:06:15,Pandas: How to filter results of value_counts? - Softhints,https://blog.softhints.com/pandas-how-to-filter-results-of-value_counts/,1,0,link
+2277,273785,4/30/2021,10:04:43,python - Pandas filter counts - Stack Overflow,https://stackoverflow.com/questions/34472706/pandas-filter-counts,1,0,link
+2280,273783,4/30/2021,9:57:49,Pandas Series: filter() function - w3resource,https://www.w3resource.com/pandas/series/series-filter.php#:~:text=The%20filter()%20function%20isREPLACE-THIS-PLEASEthe%20labels%20of%20the%20index.&text=Keep%20labels%20from%20axis%20which%20are%20in%20items.,1,0,link
+2282,273782,4/30/2021,9:56:35,pandas.Series.filter — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.Series.filter.html,1,0,link
+2285,273739,4/30/2021,9:52:22,python - pandas: filtering by group size and data value - Stack Overflow,https://stackoverflow.com/questions/36095973/pandas-filtering-by-group-size-and-data-value,2,0,link
+2288,273722,4/30/2021,9:51:47,pandas.DataFrame.size — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html,2,0,link
+2291,273778,4/30/2021,9:46:50,When to use aggreagate/filter/transform with pandas | Drawing from Data,https://drawingfromdata.com/pandas/grouping/pandas-groupby-transform-aggregate-filter.html,1,0,link
+2293,273777,4/30/2021,9:46:15,python - Filtering grouped DataFrame in Pandas - Stack Overflow,https://stackoverflow.com/questions/13167391/filtering-grouped-dataframe-in-pandas,1,0,link
+2296,264863,4/30/2021,9:43:25,How to get column names in Pandas dataframe - GeeksforGeeks,https://www.geeksforgeeks.org/how-to-get-column-names-in-pandas-dataframe/,5,0,link
+2299,273774,4/30/2021,9:40:50,python - How to assign a name to the a size() column? - Stack Overflow,https://stackoverflow.com/questions/17995024/how-to-assign-a-name-to-the-a-size-column,1,0,link
+2302,273772,4/30/2021,9:39:20,Select rows from a Pandas Dataframe based on column values | Data Interview Questions,https://www.interviewqs.com/ddi-code-snippets/rows-cols-python,1,0,link
+2305,273770,4/30/2021,9:38:12,python - RangeIndex object is not callable - Stack Overflow,https://stackoverflow.com/questions/55439027/rangeindex-object-is-not-callable,1,0,link
+2308,273768,4/30/2021,9:35:01,pandas.Series.to_frame — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.Series.to_frame.html,1,0,link
+2312,273766,4/30/2021,9:30:56,How To Change Column Names and Row Indexes in Pandas? - Python and R Tips,https://cmdlinetips.com/2018/03/how-to-change-column-names-and-row-indexes-in-pandas/#:~:text=One%20way%20to%20rename%20columnsREPLACE-THIS-PLEASElist%20to%20column%20names%20directly.&text=This%20will%20assign%20the%20namesREPLACE-THIS-PLEASEthe%20data%20frame%20%E2%80%9Cgapminder%E2%80%9D.,1,0,link
+2315,273764,4/30/2021,9:29:41,Filter Dataframe Rows Based on Column Values in Pandas | Delft Stack,https://www.delftstack.com/howto/python-pandas/how-to-filter-dataframe-rows-based-on-column-values-in-pandas/,1,0,link
+2317,273763,4/30/2021,9:26:04,Ways to filter Pandas DataFrame by column values - GeeksforGeeks,https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/,1,0,link
+2319,273762,4/30/2021,9:25:45,3 ways to filter Pandas DataFrame by column values | by Padhma Sahithya | The Startup | Medium,https://medium.com/swlh/3-ways-to-filter-pandas-dataframe-by-column-values-dfb6609b31de,1,0,link
+2323,265083,4/30/2021,9:21:00,Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python,https://realpython.com/pandas-groupby/,2,0,link
+2326,273759,4/30/2021,9:16:52,How do I select a subset of a DataFrame? — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html,1,0,link
+2328,273758,4/30/2021,9:16:40,8 Ways to Filter Pandas Dataframes | by Soner Yıldırım | Towards Data Science,https://towardsdatascience.com/8-ways-to-filter-pandas-dataframes-d34ba585c1b8,1,0,link
+2332,273756,4/30/2021,9:15:28,Filtering Data in Python with Boolean Indexes | Python - Mode Analytics,https://mode.com/python-tutorial/python-filtering-with-boolean-indexes/,1,0,link
+2335,264113,4/30/2021,9:09:52,pandas.DataFrame.where — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.where.html,5,0,link
+2338,273753,4/30/2021,9:06:56,pandas.core.groupby.DataFrameGroupBy.filter — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.filter.html,1,0,link
+2342,273751,4/30/2021,9:05:42,python - Get group size in pandas dataframe - Stack Overflow,https://stackoverflow.com/questions/50594119/get-group-size-in-pandas-dataframe,1,0,link
+2346,273749,4/30/2021,9:04:17,Python | Pandas dataframe.eq() - GeeksforGeeks,https://www.geeksforgeeks.org/python-pandas-dataframe-eq/,1,0,link
+2348,273748,4/30/2021,9:02:43,Pandas DataFrame: eq() function - w3resource,https://www.w3resource.com/pandas/dataframe/dataframe-eq.php,1,0,link
+2350,273747,4/30/2021,9:02:26,Pandas — Filtering Records In 20 Ways | by codeforests | Medium,https://codeforests.medium.com/pandas-filtering-records-in-20-ways-6fdd31a929f3,1,0,link
+2352,273746,4/30/2021,9:01:21,pandas.DataFrame.filter — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.filter.html,1,0,link
+2355,264090,4/30/2021,8:58:22,indexing - Python Pandas: Get index of rows which column matches certain value - Stack Overflow,https://stackoverflow.com/questions/21800169/python-pandas-get-index-of-rows-which-column-matches-certain-value,2,0,link
+2358,273743,4/30/2021,8:55:26,Select Rows & Columns by Name or Index in DataFrame using loc & iloc | Python Pandas – thispointer.com,https://thispointer.com/select-rows-columns-by-name-or-index-in-dataframe-using-loc-iloc-python-pandas/,1,0,link
+2360,273742,4/30/2021,8:52:55,How to select columns from a Pandas `DataFrame` by index in Python,https://www.kite.com/python/answers/how-to-select-columns-from-a-pandas-%60dataframe%60-by-index-in-python,1,0,link
+2363,264859,4/30/2021,8:48:06,How To Filter Pandas Dataframe By Values of Column? - Python and R Tips,https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/,2,0,link
+2366,273739,4/30/2021,8:44:06,python - pandas: filtering by group size and data value - Stack Overflow,https://stackoverflow.com/questions/36095973/pandas-filtering-by-group-size-and-data-value,2,0,link
+2369,273737,4/30/2021,8:43:15,pandas: Get the number of rowsREPLACE-THIS-PLEASE columnsREPLACE-THIS-PLEASE all elements (size) of DataFrame | note.nkmk.me,https://note.nkmk.me/en/python-pandas-len-shape-size/,1,0,link
+2373,273735,4/30/2021,8:42:32,python - TypeError: __init__() got an unexpected keyword argument 'size - Stack Overflow,https://stackoverflow.com/questions/39089253/typeerror-init-got-an-unexpected-keyword-argument-size,1,0,link
+2376,273733,4/30/2021,8:41:03,pandas.DataFrame.where — pandas 0.23.1 documentation,https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.where.html,1,0,link
+2379,273731,4/30/2021,8:39:42,Pandas DataFrame: GroupBy Examples,https://queirozf.com/entries/pandas-dataframe-groupby-examples,1,0,link
+2381,273729,4/30/2021,8:39:03,pandas.core.groupby.GroupBy.size — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.GroupBy.size.html,1,0,link
+2383,273728,4/30/2021,8:38:53,Pandas’ groupby explained in detail | by Fabian Bosler | Towards Data Science,https://towardsdatascience.com/pandas-groupby-aggregate-transform-filter-c95ba3444bbb,1,0,link
+2385,273727,4/30/2021,8:37:23,python - Pandas groupby: get size of a group knowing its id (from .grouper.group_info[0]) - Stack Overflow,https://stackoverflow.com/questions/17945247/pandas-groupby-get-size-of-a-group-knowing-its-id-from-grouper-group-info0,1,0,link
+2389,273725,4/30/2021,8:36:05,python - Pandas DataFrame: Find index values for sequences of a certain length where two columns are equal/identical - Stack Overflow,https://stackoverflow.com/questions/44807469/pandas-dataframe-find-index-values-for-sequences-of-a-certain-length-where-two,1,0,link
+2391,273724,4/30/2021,8:34:51,pandas.DataFrame.equals — pandas 1.2.4 documentation,https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.equals.html,1,0,link
+2396,273722,4/30/2021,8:34:41,pandas.DataFrame.size — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html,2,0,link
+2401,273719,4/30/2021,8:32:16,Python | Pandas DataFrame.where() - GeeksforGeeks,https://www.geeksforgeeks.org/python-pandas-dataframe-where/,2,0,link
+2403,264113,4/30/2021,8:31:14,pandas.DataFrame.where — pandas 1.2.4 documentation,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.where.html,5,0,link
+2409,273716,4/30/2021,8:19:00,python - Pandas cannot open an Excel (.xlsx) file - Stack Overflow,https://stackoverflow.com/questions/65250207/pandas-cannot-open-an-excel-xlsx-file,1,0,link
+2412,273711,4/30/2021,8:16:03,openpyxl - A Python library to read/write Excel 2010 xlsx/xlsm files — openpyxl 3.0.7 documentation,https://openpyxl.readthedocs.io/en/stable/,2,0,link
+2413,273712,4/30/2021,8:16:00,Search — openpyxl 3.0.7 documentation,https://openpyxl.readthedocs.io/en/stable/search.html?q=install&check_keywords=yes&area=default,2,0,form_submit
+2415,273714,4/30/2021,8:09:50,Openpyxl :: Anaconda.org,https://anaconda.org/anaconda/openpyxl,1,0,link
+2418,273712,4/30/2021,8:09:27,Search — openpyxl 3.0.7 documentation,https://openpyxl.readthedocs.io/en/stable/search.html?q=install&check_keywords=yes&area=default,2,0,form_submit
+2419,273711,4/30/2021,8:08:19,openpyxl - A Python library to read/write Excel 2010 xlsx/xlsm files — openpyxl 3.0.7 documentation,https://openpyxl.readthedocs.io/en/stable/,2,0,link
+2425,273707,4/30/2021,7:46:25,Mining Skewed and Sparse Transaction Data for Personalized Shopping Recommendation,https://link.springer.com/content/pdf/10.1023/B:MACH.0000035471.28235.6d.pdf,1,0,link
+2428,265037,4/30/2021,7:44:18,pprint — Data pretty printer — Python 3.9.4 documentation,https://docs.python.org/3/library/pprint.html,2,0,link
+2432,273702,4/30/2021,7:40:30,Machine-Learning-with-R-datasets/groceries.csv at master · stedy/Machine-Learning-with-R-datasets,https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/groceries.csv,1,0,link
+2460,264953,4/30/2021,7:14:20,How to add Elements to a List in Python - JournalDev,https://www.journaldev.com/33182/python-add-to-list,2,0,link
+2464,267793,4/30/2021,6:53:16,For loop with range - Learn Python 3 - Snakify,https://snakify.org/en/lessons/for_loop_range/,2,0,link
+2467,273682,4/30/2021,6:40:34,itertools.combinations() module in Python to print all possible combinations - GeeksforGeeks,https://www.geeksforgeeks.org/itertools-combinations-module-python-print-possible-combinations/,1,0,link
+2480,273676,4/30/2021,6:11:15,MSc - Data Mining,https://datamining-202021.github.io/live/topics/10-Association_Analysis/21-Lab_11_-_Association_Analysis/00-Outline.html,1,0,link
+2481,273585,4/30/2021,6:11:12,MSc - Data Mining,https://datamining-202021.github.io/live/topics/10-Association_Analysis/index.html,4,0,link
+2492,254645,4/30/2021,6:07:49,Module: Data Mining-91634-[2020-2021],https://moodle.wit.ie/course/view.php?id=171403,46,0,form_submit
+2496,254645,4/30/2021,6:07:43,Module: Data Mining-91634-[2020-2021],https://moodle.wit.ie/course/view.php?id=171403,46,0,link
+2597,273585,4/29/2021,14:31:45,MSc - Data Mining,https://datamining-202021.github.io/live/topics/10-Association_Analysis/index.html,4,0,auto_toplevel
+2601,273585,4/29/2021,14:28:31,MSc - Data Mining,https://datamining-202021.github.io/live/topics/10-Association_Analysis/index.html,4,0,link
+2624,273567,4/29/2021,13:57:35,Data Mining-91634-[2020-2021]: Assignment 3 - Association Analysis and Recommender Systems,https://moodle.wit.ie/mod/assign/view.php?id=3493816,3,0,auto_toplevel
+2630,262330,4/29/2021,13:27:26,Daring Fireball: Markdown Syntax Documentation,https://daringfireball.net/projects/markdown/syntax,2,0,link
+2632,265064,4/29/2021,13:26:47,Getting Images into Markdown Documents and Weblog Posts with Markdown Monster | by Rick Strahl | Markdown Monster Blog | Medium,https://medium.com/markdown-monster-blog/getting-images-into-markdown-documents-and-weblog-posts-with-markdown-monster-9ec6f353d8ec,3,0,link
+2636,273565,4/29/2021,13:26:20,Creating an image link in Markdown format - Meta Stack Exchange,https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format,1,0,link
+2810,262323,4/29/2021,11:32:31,Markdown Cheatsheet · adam-p/markdown-here Wiki,https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet,5,0,link
+3033,254786,4/29/2021,7:19:09,MSc - Data Mining Topic : Module Overview,https://datamining-202021.github.io/live/topics/01-Module_Overview/03-Module_Introduction/01-03-Module_Introduction-Slides-Handout.pdf,12,0,link
+3034,253515,4/29/2021,7:19:01,MSc - Data Mining,https://datamining-202021.github.io/live/topics/01-Module_Overview/index.html,36,2,link
+3036,273445,4/29/2021,7:18:01,MSc - Data Mining,https://datamining-202021.github.io/live/topics/01-Module_Overview/index.html#42-Additional_Resources,1,0,link
+3037,253515,4/29/2021,7:17:57,MSc - Data Mining,https://datamining-202021.github.io/live/topics/01-Module_Overview/index.html,36,2,link
+3083,263716,4/28/2021,21:39:31,Data Mining-91634-[2020-2021]: Assignment 2: Internet Usage data investigation,https://moodle.wit.ie/mod/assign/view.php?id=3475922,10,0,link
+3084,263716,4/28/2021,21:38:54,Data Mining-91634-[2020-2021]: Assignment 2: Internet Usage data investigation,https://moodle.wit.ie/mod/assign/view.php?id=3475922,10,0,link
+3085,254645,4/28/2021,21:38:46,Module: Data Mining-91634-[2020-2021],https://moodle.wit.ie/course/view.php?id=171403,46,0,link
